@@ -1,0 +1,9 @@
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\bin\Debug\EduCheck.exe.config
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\bin\Debug\EduCheck.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\bin\Debug\EduCheck.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\obj\Debug\EduCheck.csprojResolveAssemblyReference.cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\obj\Debug\EduCheck.Form1.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\obj\Debug\EduCheck.Properties.Resources.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\obj\Debug\EduCheck.csproj.GenerateResource.Cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\obj\Debug\EduCheck.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\EduCheck\EduCheck\obj\Debug\EduCheck.pdb
